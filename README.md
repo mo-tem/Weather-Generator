@@ -8,6 +8,8 @@ Displaying the weather in my city using a free weather data API.
 
 I haven't particularly used a weather data API before and was curious to play around with a free one to see what's possible and what options there might be. 
 
+Also, I wanted the site to be easy to reach, convenient to use, and at zero cost (including giving up data). Although github pages only hosts static sites, the API only needs to be called once per page load.
+
 ### Will I continue with this project?
 
 Since this is a very short project mainly for experimentation and exploration, I may come back from time-to-time to update it. The focus is on understanding the API options and seeing possible applications rather than design or anything else.
