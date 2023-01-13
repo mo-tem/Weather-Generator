@@ -1,0 +1,70 @@
+body {
+    background-color: #87CEEB;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  #container {
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 50px;
+  }
+  
+  .icon, #temperature {
+    font-size: 80px;
+  }
+
+  #weatherInfo {
+    font-size: 60px;
+  }
+  
+  #windDirection, #windSpeed, #dateTime{
+    font-size: 40px;
+  }
+
+
+  #icon, #temperature, #weatherInfo, #windDirection, #windSpeed, #dateTime{
+    margin-bottom: 20px;
+  }
+
+  .block {
+    width: 100%;
+    margin: auto;
+    border: 1px solid blue;
+    padding: 25px 50px 25px 50px;
+    margin-bottom: 20px;
+}
+
+
+  /*
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    padding-top: 15px;
+}
+
+h1, h3 {
+    text-align: center;
+}
+
+.block {
+    width: 50%;
+    margin: auto;
+    border: 1px solid blue;
+    padding: 25px 50px 25px 50px;
+    margin-bottom: 20px;
+}
+
+.block-title {
+    text-align: center;
+}
+
+.block-text {
+    border: 1px solid white;
+    padding: 5px;
+    text-align: left;
+    background: white;
+}
+  */
