@@ -14,7 +14,7 @@ Since this is a very short project mainly for experimentation and exploration, I
 
 ### Languages:
 
-Node.JS
+HTML, CSS, JavaScript
 
 ### API:
 
