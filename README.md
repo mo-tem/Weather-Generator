@@ -30,7 +30,7 @@ Note: The objective of this website is to ensure personal ease of access, conven
 
 https://mtemkit.github.io/Weather-Generator/ (in progress)
 
-### Next steps:
+### Next steps / Future Updates:
 
 - Background animation for night vs. day
 - Gifs for each weather type
