@@ -28,7 +28,7 @@ Note: The objective of this website is to ensure personal ease of access, conven
 
 ### Demo:
 
-https://mtemkit.github.io/Weather-Generator/ (in progress)
+https://mo-tem.github.io/Weather-Generator/ (in progress)
 
 ### Next steps / Future Updates:
 
